@@ -6,8 +6,9 @@
 - title: Posts
   url: /posts/
 
-#- title: Theme Setup
-#  url: /theme-setup/
+- title: Theme Setup
+  url: /blog/
+  external: true
 
 #- title: Made Mistakes
 #  url: http://mademistakes.com
