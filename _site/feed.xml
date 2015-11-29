@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Sandeep Namburi</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="snamburi3.github.io/feed.xml" />
-<link rel="alternate" type="text/html" href="snamburi3.github.io" />
-<updated>2015-11-29T16:56:19+00:00</updated>
-<id>snamburi3.github.io/</id>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2015-11-29T17:15:15+00:00</updated>
+<id>/</id>
 <author>
   <name>Sandeep Namburi</name>
-  <uri>snamburi3.github.io/</uri>
+  <uri>/</uri>
   <email>sandeep.namburi.31@gmail.com</email>
 </author>
 
@@ -17,14 +17,14 @@
 
 <entry>
   <title type="html"><![CDATA[Sample Post]]></title>
-  <link rel="alternate" type="text/html" href="snamburi3.github.io/sample-post/" />
-  <id>snamburi3.github.io/sample-post</id>
+  <link rel="alternate" type="text/html" href="/sample-post/" />
+  <id>/sample-post</id>
   <updated>2013-05-31T00:00:00-00:00</updated>
   <published>2011-03-10T00:00:00+00:00</published>
   
   <author>
     <name>Sandeep Namburi</name>
-    <uri>snamburi3.github.io</uri>
+    <uri></uri>
     <email>sandeep.namburi.31@gmail.com</email>
   </author>
   <content type="html">
@@ -85,7 +85,7 @@
 
 &lt;p&gt;Lorem ipsum dolor sit amet, test link adipiscing elit. &lt;strong&gt;This is strong&lt;/strong&gt;. Nullam dignissim convallis est. Quisque aliquam.&lt;/p&gt;
 
-&lt;p class=&quot;image-pull-right&quot;&gt;&lt;img src=&quot;snamburi3.github.io/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
+&lt;p class=&quot;image-pull-right&quot;&gt;&lt;img src=&quot;/images/3953273590_704e3899d5_m.jpg&quot; alt=&quot;Smithsonian Image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;This is emphasized&lt;/em&gt;. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.&lt;/p&gt;
 
@@ -164,7 +164,7 @@
 &lt;/table&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;snamburi3.github.io/sample-post/&quot;&gt;Sample Post&lt;/a&gt; was originally published by Sandeep Namburi at &lt;a href=&quot;snamburi3.github.io&quot;&gt;Sandeep Namburi&lt;/a&gt; on March 10, 2011.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/sample-post/&quot;&gt;Sample Post&lt;/a&gt; was originally published by Sandeep Namburi at &lt;a href=&quot;&quot;&gt;Sandeep Namburi&lt;/a&gt; on March 10, 2011.&lt;/p&gt;
   </content>
 </entry>
 

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>snamburi3.github.io/sample-post/</loc>
+    <loc>/sample-post/</loc>
     <lastmod>2011-03-10T00:00:00+00:00</lastmod>
   </url>
   <url>
-    <loc>snamburi3.github.io/posts/</loc>
+    <loc>/posts/</loc>
   </url>
   <url>
-    <loc>snamburi3.github.io/about/</loc>
+    <loc>/about/</loc>
   </url>
   <url>
-    <loc>snamburi3.github.io/</loc>
+    <loc>/</loc>
   </url>
   <url>
-    <loc>snamburi3.github.io/theme-setup/</loc>
+    <loc>/theme-setup/</loc>
   </url>
 </urlset>
