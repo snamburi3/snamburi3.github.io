@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sample Post
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-modified: 2013-05-31
+title:  GapMinder Analysis
+excerpt: "GapMinder dataset analysis - Wesleyan University's Data Analysis and Interpretation Specialization Course "
+modified: 2015-11-31
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 image:
@@ -79,5 +79,3 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
 | cell4   | cell5   | cell6   |
 |=====
 | Foot1   | Foot2   | Foot3
-{: rules="groups"}
-

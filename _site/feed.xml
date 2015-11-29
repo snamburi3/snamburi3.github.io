@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-11-29T17:15:15+00:00</updated>
+<updated>2015-11-29T17:34:04+00:00</updated>
 <id>/</id>
 <author>
   <name>Sandeep Namburi</name>
@@ -16,11 +16,11 @@
   
 
 <entry>
-  <title type="html"><![CDATA[Sample Post]]></title>
-  <link rel="alternate" type="text/html" href="/sample-post/" />
-  <id>/sample-post</id>
-  <updated>2013-05-31T00:00:00-00:00</updated>
-  <published>2011-03-10T00:00:00+00:00</published>
+  <title type="html"><![CDATA[GapMinder Analysis]]></title>
+  <link rel="alternate" type="text/html" href="/gapminder-analysis/" />
+  <id>/gapminder-analysis</id>
+  <updated>2015-11-31T00:00:00-00:00</updated>
+  <published>2015-12-01T00:00:00+00:00</published>
   
   <author>
     <name>Sandeep Namburi</name>
@@ -122,7 +122,7 @@
 
 &lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
 
-&lt;table rules=&quot;groups&quot;&gt;
+&lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
       &lt;th style=&quot;text-align: left&quot;&gt;Header1&lt;/th&gt;
@@ -163,8 +163,7 @@
   &lt;/tfoot&gt;
 &lt;/table&gt;
 
-
-    &lt;p&gt;&lt;a href=&quot;/sample-post/&quot;&gt;Sample Post&lt;/a&gt; was originally published by Sandeep Namburi at &lt;a href=&quot;&quot;&gt;Sandeep Namburi&lt;/a&gt; on March 10, 2011.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/gapminder-analysis/&quot;&gt;GapMinder Analysis&lt;/a&gt; was originally published by Sandeep Namburi at &lt;a href=&quot;&quot;&gt;Sandeep Namburi&lt;/a&gt; on December 01, 2015.&lt;/p&gt;
   </content>
 </entry>
 
