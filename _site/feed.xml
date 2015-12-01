@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-12-01T00:33:47+00:00</updated>
+<updated>2015-12-01T00:47:43+00:00</updated>
 <id>/</id>
 <author>
   <name>Sandeep Namburi</name>
@@ -20,7 +20,7 @@
   <link rel="alternate" type="text/html" href="/gapminder-analysis/" />
   <id>/gapminder-analysis</id>
   <updated>2015-11-30T00:00:00-00:00</updated>
-  <published>2015-12-01T00:00:00+00:00</published>
+  <published>2015-11-30T00:00:00+00:00</published>
   
   <author>
     <name>Sandeep Namburi</name>
@@ -43,9 +43,9 @@
 
 &lt;h3 id=&quot;this-analysis-is-part-of-the-wesleyan-universitys-data-analysis-course-thanks-lisa-dierker-for-putting-through-the-course&quot;&gt;This analysis is part of the Wesleyan University’s Data Analysis course. Thanks Lisa Dierker for putting through the course.&lt;/h3&gt;
 &lt;p&gt;I have selected gapminder dataset for the analysis. I am interested to see how Suicide (per 100,000 people) correlates with inflation (annual %). I believe there will be a direct correlation between the two -as the inflation rises, suicides go up. Both of these variables are not part of the cookbook. I have decided to download the datasets from the Gapminder website myself. Also, unfortunately, there is no consolidated dataset having all the variables at one place. I am going to, as a part of my analysis, download all the 519 variables and consolidate the information.  I have already begun parsing all the data spreadsheets. 
-I make available the gapminder dataset with all 519 variables. I beleive this will help others have all the data at place and help correlate various variables at once. Here is my github (repo)[] for this project. I am presently doing the data ETL work - mainly cleaning and transforming the dataset into tidy format. I have not developed a full research question yet. Once I have all the varirables, I want to see if I can develop a question from the dataset.&lt;/p&gt;
+I make available the gapminder dataset with all 519 variables. I beleive this will help others have all the data at place and help correlate various variables at once. Here is my github (repo)[https://github.com/snamburi3/gapminder] for this project. I am presently doing the data ETL work - mainly cleaning and transforming the dataset into tidy format. I have not developed a full research question yet. Once I have all the varirables, I want to see if I can develop a question from the dataset.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/gapminder-analysis/&quot;&gt;GapMinder Analysis&lt;/a&gt; was originally published by Sandeep Namburi at &lt;a href=&quot;&quot;&gt;Sandeep Namburi&lt;/a&gt; on December 01, 2015.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/gapminder-analysis/&quot;&gt;GapMinder Analysis&lt;/a&gt; was originally published by Sandeep Namburi at &lt;a href=&quot;&quot;&gt;Sandeep Namburi&lt;/a&gt; on November 30, 2015.&lt;/p&gt;
   </content>
 </entry>
 
