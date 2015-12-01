@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="/feed.xml" />
 <link rel="alternate" type="text/html" href="" />
-<updated>2015-12-01T00:51:26+00:00</updated>
+<updated>2015-12-01T01:07:38+00:00</updated>
 <id>/</id>
 <author>
   <name>Sandeep Namburi</name>
@@ -36,6 +36,7 @@
 &lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#overview&quot; id=&quot;markdown-toc-overview&quot;&gt;Overview&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#approach&quot; id=&quot;markdown-toc-approach&quot;&gt;Approach&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#literature-review&quot; id=&quot;markdown-toc-literature-review&quot;&gt;Literature Review&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
   &lt;/div&gt;
@@ -48,6 +49,12 @@ I have selected gapminder dataset for the analysis. I am interested to see how S
 
 &lt;h3 id=&quot;approach&quot;&gt;Approach&lt;/h3&gt;
 &lt;p&gt;I make available the gapminder dataset with all 519 variables. I beleive this will help others have all the data at place and help correlate various variables at once. Here is my &lt;a href=&quot;https://github.com/snamburi3/gapminder&quot;&gt;github repo&lt;/a&gt; for this project. I am presently doing the data ETL work - mainly cleaning and transforming the dataset into tidy format. I have not developed a full research question yet. Once I have all the varirables, I want to see if I can develop a question from the dataset.&lt;/p&gt;
+
+&lt;h3 id=&quot;literature-review&quot;&gt;Literature Review&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Employment status, inflation and suicidal behaviour: an analysis of a stratified sample in Italy. - http://www.ncbi.nlm.nih.gov/pubmed/21813481&lt;/li&gt;
+  &lt;li&gt;http://isp.sagepub.com/content/58/5/477.abstract&lt;/li&gt;
+&lt;/ol&gt;
 
     &lt;p&gt;&lt;a href=&quot;/gapminder-analysis/&quot;&gt;GapMinder Analysis&lt;/a&gt; was originally published by Sandeep Namburi at &lt;a href=&quot;&quot;&gt;Sandeep Namburi&lt;/a&gt; on November 30, 2015.&lt;/p&gt;
   </content>

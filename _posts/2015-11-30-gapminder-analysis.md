@@ -27,3 +27,7 @@ I have selected gapminder dataset for the analysis. I am interested to see how S
 
 ### Approach
 I make available the gapminder dataset with all 519 variables. I beleive this will help others have all the data at place and help correlate various variables at once. Here is my [github repo](https://github.com/snamburi3/gapminder) for this project. I am presently doing the data ETL work - mainly cleaning and transforming the dataset into tidy format. I have not developed a full research question yet. Once I have all the varirables, I want to see if I can develop a question from the dataset.
+
+### Literature Review
+1. Employment status, inflation and suicidal behaviour: an analysis of a stratified sample in Italy. - http://www.ncbi.nlm.nih.gov/pubmed/21813481
+2. http://isp.sagepub.com/content/58/5/477.abstract
