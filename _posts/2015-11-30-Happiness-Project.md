@@ -24,5 +24,4 @@ image:
 ### What makes people happy?
 I will post various articles, my experiences, experiments, and TED videos etc related to happiness.
 
-1. Happiness 101 with Tal Ben-Shahar
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=5-RVECUWOGQ" frameborder="0" allowfullscreen></iframe>
+* [Happiness 101 with Tal Ben-Shahar](https://www.youtube.com/watch?v=5-RVECUWOGQ)
